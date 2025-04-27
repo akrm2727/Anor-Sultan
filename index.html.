@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>لعبة Xo المستقبلية</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 class="title">لعبة Xo المستقبلية</h1>
+  <div class="board" id="board"></div>
+  <button class="restart" onclick="startGame()">إعادة اللعب</button>
+  <script src="script.js"></script>
+</body>
+</html>
